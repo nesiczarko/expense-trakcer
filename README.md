@@ -13,3 +13,4 @@ npm start
 npm run build
 ```
 
+co-author Dusan Ilic <punisher93@gmail.com>
